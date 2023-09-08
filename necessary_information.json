@@ -1,0 +1,14 @@
+{
+   "necessary_information":[
+      "file name",
+      "last access date",
+      "author name",
+      "file path",
+      "file size",
+      "file mode",
+      "device",
+      "author group",
+      "number of hard links",
+      "last modification date"
+   ]
+}

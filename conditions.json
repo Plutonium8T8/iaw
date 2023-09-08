@@ -1,0 +1,17 @@
+{
+   "conditions":{
+      "extension":[
+         "pdf",
+         "txt",
+         "png"
+      ],
+      "days since its creation":[
+         "0",
+         "more"
+      ],
+      "days since last access":[
+         "300",
+         "less"
+      ]
+   }
+}

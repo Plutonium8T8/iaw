@@ -1,0 +1,11 @@
+file name: output.txt
+last access date: 2023-09-08 12:23:03.821973
+last modification date: 2023-09-08 12:23:03.821973
+author name (UID): 0
+file size: 0
+file mode: -rw-rw-rw-
+number of hard links: 1
+author group (GID): 0
+device: 2752932099
+file path: D:\IAW\iaw\output.txt
+
